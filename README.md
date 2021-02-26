@@ -1,6 +1,7 @@
 Este projeto recebeu Deploy pelo Netlify e pode ser visto neste link: https://romancalculatorv2.netlify.app/
 
-Tecnologia utilizada: React.JS;
+Tecnologia utilizada: React.JS.
+
 Aplicaçao com reponsividade aplicada? Sim.
 
 Objetivo: Fazer operações matemáticas utilizando algarismos romanos, e obtendo também o resultado em algarismos romanos.
