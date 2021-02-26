@@ -1,5 +1,15 @@
 Este projeto recebeu Deploy pelo Netlify e pode ser visto neste link: https://romancalculatorv2.netlify.app/
 
+Tecnologia utilizada: React.JS;
+Aplicaçao com reponsividade aplicada? Sim.
+
+Objetivo: Fazer operações matemáticas utilizando algarismos romanos, e obtendo também o resultado em algarismos romanos.
+
+Exemplo: X + X
+Resultado esperado: XX
+
+OBS: Só é possível fazer contas com operações de SUBTRAÇÃO e ADIÇÃO, podendo misturar operações em uma mesma conta.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
